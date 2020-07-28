@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Justin 👋
+
+- ⚡ I'm a frontend developer & enthusiast currently employed in Stuttgart, Germany.
+- 🐱‍🏍 My favorite tech-stack is Vue + TypeScript, but I have some experience in other frameworks such as React.
+
 
 <!--
 **JH1ller/JH1ller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
