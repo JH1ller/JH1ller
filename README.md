@@ -1,7 +1,7 @@
 ### Hi there, I'm Justin 👋
 
 - ⚡ I'm a frontend developer & enthusiast currently employed in Stuttgart, Germany.
-- 🐱‍🏍 My favorite tech-stack is Vue + TypeScript, but I have some experience in other frameworks such as React.
+- ✨ My favorite tech-stack is Vue + TypeScript, but I have some experience in other frameworks such as Angular.
 
 
 <!--
