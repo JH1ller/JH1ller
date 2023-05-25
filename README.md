@@ -1,6 +1,6 @@
 ### Hi there, I'm Justin 👋
 
-- ⚡ I'm a web engineer & enthusiast currently living and employed in Stuttgart, Germany.
+- ⚡ I'm a web engineer & enthusiast currently living in Hamburg, Germany.
 - ✨ My favorite tech-stack is Vue + TypeScript, but I have some experience in other frameworks such as Angular, as well as some backend stuff with Node.js.
 - 📖 I'm currently mainly working on stratbook, a collaborative strategy management app and tactics board for CS:GO.
 
